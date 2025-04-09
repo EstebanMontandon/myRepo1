@@ -2,6 +2,6 @@ test file
 
 this is new code!
 
-and another line!
+this line is different
 
 add this extra line
